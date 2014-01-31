@@ -1,3 +1,19 @@
+@font-face { 
+  font-family: Raleway;
+  src: url('../fonts/raleway_thin.ttf') format("truetype");
+}
 body {
-  background-image:url('../images/background.png')
+  background-image:url('../images/background.png');
+  font-family: Raleway, sans-serif;
+  color: #CCC;
+}
+
+.container {
+  margin: 20px 10%;
+  min-width: 700px;
+}
+
+
+h1{
+  font-size: 72px;
 }
