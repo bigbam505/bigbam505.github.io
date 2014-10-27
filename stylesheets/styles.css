@@ -2,8 +2,9 @@
   font-family: Raleway;
   src: url('../fonts/raleway_thin.ttf') format("truetype");
 }
+
 body {
-  background-image:url('../images/background.png');
+  background-color: #504d50;
   font-family: Raleway, sans-serif;
   color: #CCC;
 }
@@ -13,7 +14,6 @@ body {
   min-width: 700px;
 }
 
-
 h1{
-  font-size: 72px;
+  font-size: 64px;
 }
